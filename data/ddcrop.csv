@@ -1,0 +1,37 @@
+Possible values,Renamed Variable
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",mi
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",chd_angina
+"{'1': 'Reported having MI or CHD', '2': 'Did not report having MI or CHD', 'BLANK': 'Not asked or Missing'}",chd_mi
+"{'1': 'Alabama', '2': 'Alaska', '4': 'Arizona', '5': 'Arkansas', '6': 'California', '8': 'Colorado', '9': 'Connecticut', '10': 'Delaware', '11': 'District of Columbia', '12': 'Florida', '13': 'Georgia', '15': 'Hawaii', '16': 'Idaho', '17': 'Illinois', '18': 'Indiana', '19': 'Iowa', '20': 'Kansas', '21': 'Kentucky', '22': 'Louisiana', '23': 'Maine', '24': 'Maryland', '25': 'Massachusetts', '26': 'Michigan', '27': 'Minnesota', '28': 'Mississippi', '29': 'Missouri', '30': 'Montana', '31': 'Nebraska', '32': 'Nevada', '33': 'New Hampshire', '34': 'New Jersey', '35': 'New Mexico', '36': 'New York', '37': 'North Carolina', '38': 'North Dakota', '39': 'Ohio', '40': 'Oklahoma', '41': 'Oregon', '42': 'Pennsylvania', '44': 'Rhode Island', '45': 'South Carolina', '46': 'South Dakota', '47': 'Tennessee', '48': 'Texas', '49': 'Utah', '50': 'Vermont', '51': 'Virginia', '53': 'Washington', '54': 'West Virginia', '55': 'Wisconsin', '56': 'Wyoming', '66': 'Guam', '72': 'Puerto Rico', '78': 'Virgin Islands'}",state_fips_code
+"{'1': 'Male', '2': 'Female'}",sex
+"{'1': 'Age 18 to 24', '2': 'Age 25 to 29', '3': 'Age 30 to 34', '4': 'Age 35 to 39', '5': 'Age 40 to 44', '6': 'Age 45 to 49', '7': 'Age 50 to 54', '8': 'Age 55 to 59', '9': 'Age 60 to 64', '10': 'Age 65 to 69', '11': 'Age 70 to 74', '12': 'Age 75 to 79', '13': 'Age 80 or older', '14': 'Don't know/Refused/Missing'}",age_group
+"{'1': 'White only, Non-Hispanic', '2': 'Black only, Non-Hispanic', '3': 'Other race only, Non-Hispanic', '4': 'Multiracial, Non-Hispanic', '5': 'Hispanic', '9': 'Don't know/Not sure/Refused', 'BLANK': 'Missing'}",race_ethnicity
+"{'1': 'Did not graduate High School', '2': 'Graduated High School', '3': 'Attended College or Technical School', '4': 'Graduated from College or Technical School', '9': 'Don't know/Not sure/Missing'}",education_level
+"{'1': 'Less than $15,000', '2': '$15,000 to < $25,000', '3': '$25,000 to < $35,000', '4': '$35,000 to < $50,000', '5': '$50,000 to < $100,000', '6': '$100,000 to < $200,000', '7': '$200,000 or more', '9': 'Don't know/Not sure/Missing'}",income_category
+"{'1': 'Married', '2': 'Divorced', '3': 'Widowed', '4': 'Separated', '5': 'Never married', '6': 'A member of an unmarried couple', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",marital_status
+"{'1': 'Employed for wages', '2': 'Self-employed', '3': 'Out of work for 1 year or more', '4': 'Out of work for less than 1 year', '5': 'A homemaker', '6': 'A student', '7': 'Retired', '8': 'Unable to work', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",employment_status
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",smoked_100_cigarettes
+"{'1': 'Every day', '2': 'Some days', '3': 'Not at all', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",uses_tobacco
+"{'1': 'Never used e-cigarettes in your entire life', '2': 'Use them every day', '3': 'Use them some days', '4': 'Not at all (right now)', '7': 'Don't know / Not sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",uses_e_cigarettes
+"{'101 - 199': 'Days per week', '201 - 299': 'Days in past 30 days', '777': 'Don't know/Not sure', '888': 'No drinks in past 30 days', '999': 'Refused', 'BLANK': 'Not asked or Missing'}",days_drinking_alcohol
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",exercises_regularly
+"{'1 - 24': 'Number of hours [1-24]', '77': 'Don't know/Not Sure', '99': 'Refused', 'BLANK': 'Missing'}",average_sleep_hours
+"{'1': 'Excellent', '2': 'Very good', '3': 'Good', '4': 'Fair', '5': 'Poor', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",general_health
+"{'1 - 30': 'Number of days', '88': 'None', '77': 'Don't know/Not sure', '99': 'Refused', 'BLANK': 'Not asked or Missing'}",physical_health_not_good_days
+"{'1 - 30': 'Number of days', '88': 'None', '77': 'Don't know/Not sure', '99': 'Refused', 'BLANK': 'Not asked or Missing'}",mental_health_not_good_days
+"{'1': 'Yes', '2': 'Yes, but female told only during pregnancy', '3': 'No', '4': 'No, pre-diabetes or borderline diabetes', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",diabetes_diagnosis
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",arthritis_diagnosis
+"{'1': 'Yes', '2': 'No', '7': 'Don't know / Not sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",copd_diagnosis
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",depression_diagnosis
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",asthma_diagnosis
+"{'50 - 0776': 'Weight (pounds)', '7777': 'Don't know/Not sure', '9023 - 9352': 'Weight (kilograms)', '9999': 'Refused', 'BLANK': 'Not asked or Missing'}",weight
+"{'200 - 711': 'Height (ft/inches)', '7777': 'Don't know/Not sure', '9061 - 9998': 'Height (meters/centimeters)', '9999': 'Refused', 'BLANK': 'Not asked or Missing'}",height
+"{'1 - 9999': '1 or greater', 'BLANK': 'Don't know/Refused/Missing'}",body_mass_index
+"{'1': 'Underweight', '2': 'Normal Weight', '3': 'Overweight', '4': 'Obese', 'BLANK': 'Don't know/Refused/Missing'}",body_mass_index_category
+"{'1': 'A plan purchased through an employer or union (including plans purchased through another person´s employer)', '2': 'A private nongovernmental plan that you or another family member buys on your own', '3': 'Medicare', '4': 'Medigap', '5': 'Medicaid', '6': 'Children´s Health Insurance Program (CHIP)', '7': 'Military related health care: TRICARE (CHAMPUS) / VA health care / CHAMP- VA', '8': 'Indian Health Service', '9': 'State sponsored health plan', '10': 'Other government program', '88': 'No coverage of any type', '77': 'Don't know/Not Sure', '99': 'Refused', 'BLANK': 'Not asked or Missing'}",primary_health_insurance
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",could_not_afford_medical_care
+"{'1': 'Within past year (anytime less than 12 months ago)', '2': 'Within past 2 years (1 year but less than 2 years ago)', '3': 'Within past 5 years (2 years but less than 5 years ago)', '4': '5 or more years ago', '7': 'Don't know/Not sure', '8': 'Never', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",last_doctor_visit
+"{'1': 'Yes', '2': 'No', '3': 'Tested positive using home test without health professional', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",covid_positive_diagnosis
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': ''}",had_flu_vaccine
+"{'1': 'Yes', '2': 'No', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",had_pneumonia_vaccine
+"{'1': 'Yes, received Tdap', '2': 'Yes, received tetanus shot, but not Tdap', '3': 'Yes, received tetanus shot but not sure what type', '4': 'No, did not receive any tetanus shot in the past 10 years', '7': 'Don't know/Not Sure', '9': 'Refused', 'BLANK': 'Not asked or Missing'}",had_tetanus_shot
